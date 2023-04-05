@@ -17,18 +17,24 @@ class HomeScreen : AppCompatActivity() {
         val continuee = findViewById<Button>(R.id.continuee)
         var email = findViewById<EditText>(R.id.setemail)
         var pass = findViewById<EditText>(R.id.setpass)
-        var register : Datacreateacc = intent.extras?.get("key") as Datacreateacc
+        var register = intent.getParcelableExtra<Datacreateacc>("key")
         continuee.setOnClickListener {
             startActivity(Intent(this,Hihi::class.java))
         }
-        if(register.email != "")
+        val check : String = intent.getStringExtra("email").toString()
+        if(check == "hieupham2705")
         {
-            email.setText(register.email)
-            pass.setText(register.pass)
+            email.setText((intent.getStringExtra("email")).toString())
+            pass.setText((intent.getStringExtra("pass")).toString())
+
         }
         else {
-            email.setText(intent.getStringExtra("email").toString())
-            pass.setText(intent.getStringExtra("pass").toString())
+            if (register != null) {
+                email.setText(register.email)
+            }
+            if (register != null) {
+                pass.setText(register.pass)
+            }
         }
         val eye = findViewById<ImageView>(R.id.eye)
         val uneye = findViewById<ImageView>(R.id.uneye)

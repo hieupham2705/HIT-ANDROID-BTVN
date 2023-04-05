@@ -41,6 +41,7 @@ font outfitregular
 font outfitthin
 font regular
 font satisfyregular
+id check
 id checkBox
 id continuee
 id editTextTextCfPassword

@@ -2945,6 +2945,7 @@ int id center_vertical 0x7f09006b
 int id chain 0x7f09006c
 int id chain2 0x7f09006d
 int id chains 0x7f09006e
+int id check 0x7f09020b
 int id checkBox 0x7f09006f
 int id checkbox 0x7f090070
 int id checked 0x7f090071

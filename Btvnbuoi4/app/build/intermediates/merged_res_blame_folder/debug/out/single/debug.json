@@ -36,10 +36,6 @@
         "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-main-31:\\drawable\\onlineshopping.png"
     },
     {
-        "merged": "com.example.btvnbuoi4.app-merged_res-29:/xml_activity_splash_screen_scene.xml.flat",
-        "source": "com.example.btvnbuoi4.app-main-31:/xml/activity_splash_screen_scene.xml"
-    },
-    {
         "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-merged_res-29:\\mipmap-mdpi_ic_launcher_round.webp.flat",
         "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-main-31:\\mipmap-mdpi\\ic_launcher_round.webp"
     },
@@ -218,6 +214,10 @@
     {
         "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-merged_res-29:\\font_outfitextralight.ttf.flat",
         "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-main-31:\\font\\outfitextralight.ttf"
+    },
+    {
+        "merged": "com.example.btvnbuoi4.app-merged_res-29:/layout_activity_login_screen.xml.flat",
+        "source": "com.example.btvnbuoi4.app-main-31:/layout/activity_login_screen.xml"
     },
     {
         "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-merged_res-29:\\drawable_eyeicon.png.flat",

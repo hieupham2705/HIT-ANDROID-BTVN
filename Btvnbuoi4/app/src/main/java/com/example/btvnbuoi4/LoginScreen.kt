@@ -29,6 +29,7 @@ class LoginScreen : AppCompatActivity() {
         var inputpass : EditText = findViewById(R.id.editTextTextPassword)
         var checkBox : CheckBox = findViewById(R.id.checkBox)
         val signup : TextView = findViewById(R.id.signup)
+        val check = findViewById<TextView>(R.id.check)
         val intent = Intent(this,HomeScreen::class.java)
         checkBox.setOnClickListener {
             k++
@@ -47,8 +48,13 @@ class LoginScreen : AppCompatActivity() {
             }
             intent.putExtra("email",email)
             intent.putExtra("pass",pass)
-            if(email == emailcheck && pass == passcheck)
+            if(email == emailcheck && pass == passcheck) {
+                check.text = ""
                 startActivity(intent)
+            }
+            else {
+                check.text = "Đố biết được mật khẩu :<<"
+            }
         }
         signup.setOnClickListener {
             startActivity(Intent(this,RegisterScreen::class.java))
