@@ -14,7 +14,7 @@
         android:fontFamily="@font/outfitbold"
         android:textColor="@color/black"
         android:layout_marginBottom="30dp"
-        android:textSize="20sp"
+        android:textSize="21sp"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"/>
     <TextView
