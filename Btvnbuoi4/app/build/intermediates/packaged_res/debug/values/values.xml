@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Login</string>
+    <string name="create"> Create Account</string>
+    <string name="email">   example@gmail.com</string>
+    <string name="forget_pass">Forget Password ?</string>
+    <string name="lets_start">Lets Start</string>
+    <string name="login">Login Account</string>
+    <string name="mini_shop">Mini Shop</string>
+    <string name="not_register_yet">Not register yet ?</string>
+    <string name="pass">   Enter Your Password</string>
+    <string name="text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Diam maecenas mi non sed ut odio. Non, justo, sed facilisi et. Eget viverra urna, vestibulum egestas faucibus egestas. Sagittis nam velit volutpat eu nunc.</string>
+    <string name="the_app">Discover Your</string>
+    <string name="welcome">Welcome back Rohit thakur !</string>
+    <style name="Theme.Btvnbuoi4" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        
+    </style>
+</resources>

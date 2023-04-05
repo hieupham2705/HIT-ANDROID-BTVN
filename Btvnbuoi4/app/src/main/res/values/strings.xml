@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="the_app">Discover Your</string>
+    <string name="text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Diam maecenas mi non sed ut odio. Non, justo, sed facilisi et. Eget viverra urna, vestibulum egestas faucibus egestas. Sagittis nam velit volutpat eu nunc.</string>
+    <string name="lets_start">Lets Start</string>
+    <string name="login">Login Account</string>
+    <string name="welcome">Welcome back Rohit thakur !</string>
+    <string name="mini_shop">Mini Shop</string>
+    <string name="email">   example@gmail.com</string>
+    <string name="pass">   Enter Your Password</string>
+    <string name="forget_pass">Forget Password ?</string>
+    <string name="not_register_yet">Not register yet ?</string>
+    <string name="create"> Create Account</string>
+</resources>

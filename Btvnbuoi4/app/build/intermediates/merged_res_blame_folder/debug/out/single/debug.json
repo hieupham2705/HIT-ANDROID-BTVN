@@ -1,0 +1,234 @@
+[
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-merged_res-29:\\drawable_uneyeicon.xml.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-main-31:\\drawable\\uneyeicon.xml"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-merged_res-29:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-main-31:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-merged_res-29:\\drawable_bordertextsplash.xml.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-main-31:\\drawable\\bordertextsplash.xml"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-merged_res-29:\\drawable_backbround.jpg.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-main-31:\\drawable\\backbround.jpg"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-merged_res-29:\\drawable_borderbtregister.xml.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-main-31:\\drawable\\borderbtregister.xml"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-merged_res-29:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-main-31:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-merged_res-29:\\drawable_facebooklogo.png.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-main-31:\\drawable\\facebooklogo.png"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-merged_res-29:\\xml_activity_splash_screen_scene.xml.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-main-31:\\xml\\activity_splash_screen_scene.xml"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-merged_res-29:\\drawable_onlineshopping.png.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-main-31:\\drawable\\onlineshopping.png"
+    },
+    {
+        "merged": "com.example.btvnbuoi4.app-merged_res-29:/xml_activity_splash_screen_scene.xml.flat",
+        "source": "com.example.btvnbuoi4.app-main-31:/xml/activity_splash_screen_scene.xml"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-merged_res-29:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-main-31:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-merged_res-29:\\drawable_borderbuttonlogin.xml.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-main-31:\\drawable\\borderbuttonlogin.xml"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-merged_res-29:\\font_outfitblack.ttf.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-main-31:\\font\\outfitblack.ttf"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-merged_res-29:\\drawable_googlelogo.png.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-main-31:\\drawable\\googlelogo.png"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-merged_res-29:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-main-31:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-merged_res-29:\\font_outfitthin.ttf.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-main-31:\\font\\outfitthin.ttf"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-merged_res-29:\\font_outfitbold.ttf.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-main-31:\\font\\outfitbold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-merged_res-29:\\font_outfitregular.ttf.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-main-31:\\font\\outfitregular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-merged_res-29:\\font_medium.ttf.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-main-31:\\font\\medium.ttf"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-merged_res-29:\\layout_activity_hihi.xml.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-main-31:\\layout\\activity_hihi.xml"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-merged_res-29:\\layout_activity_home_screen.xml.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-main-31:\\layout\\activity_home_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-merged_res-29:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-main-31:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-merged_res-29:\\drawable_line.png.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-main-31:\\drawable\\line.png"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-merged_res-29:\\font_boldd.ttf.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-main-31:\\font\\boldd.ttf"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-merged_res-29:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-main-31:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-merged_res-29:\\font_outfitlight.ttf.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-main-31:\\font\\outfitlight.ttf"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-merged_res-29:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-main-31:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-merged_res-29:\\mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-main-31:\\mipmap-anydpi-v33\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-merged_res-29:\\drawable_borderedittext.xml.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-main-31:\\drawable\\borderedittext.xml"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-merged_res-29:\\drawable_borderbutton.xml.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-main-31:\\drawable\\borderbutton.xml"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-merged_res-29:\\font_outfitextrabold.ttf.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-main-31:\\font\\outfitextrabold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-merged_res-29:\\drawable_eyeicon.xml.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-main-31:\\drawable\\eyeicon.xml"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-main-31:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-merged_res-29:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-main-31:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-merged_res-29:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-main-31:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-main-31:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-merged_res-29:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-main-31:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-main-31:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-merged_res-29:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-main-31:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-merged_res-29:\\layout_activity_register_screen.xml.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-main-31:\\layout\\activity_register_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-merged_res-29:\\font_mediumitalic.ttf.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-main-31:\\font\\mediumitalic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-merged_res-29:\\layout_activity_splash_screen.xml.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-main-31:\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-merged_res-29:\\font_regular.ttf.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-main-31:\\font\\regular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-merged_res-29:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-main-31:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-merged_res-29:\\font_italic.ttf.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-main-31:\\font\\italic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-merged_res-29:\\font_satisfyregular.ttf.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-main-31:\\font\\satisfyregular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-merged_res-29:\\drawable_daly.png.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-main-31:\\drawable\\daly.png"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-merged_res-29:\\font_outfitbemibold.ttf.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-main-31:\\font\\outfitbemibold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-merged_res-29:\\drawable_bordermainatvt.xml.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-main-31:\\drawable\\bordermainatvt.xml"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-merged_res-29:\\font_outfitmedium.ttf.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-main-31:\\font\\outfitmedium.ttf"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-merged_res-29:\\layout_activity_login_screen.xml.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-main-31:\\layout\\activity_login_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-main-31:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-merged_res-29:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-main-31:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-merged_res-29:\\font_lightitalic.ttf.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-main-31:\\font\\lightitalic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-merged_res-29:\\font_outfitextralight.ttf.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-main-31:\\font\\outfitextralight.ttf"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-merged_res-29:\\drawable_eyeicon.png.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-main-31:\\drawable\\eyeicon.png"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-merged_res-29:\\drawable_baseline_accessible_24.xml.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-main-31:\\drawable\\baseline_accessible_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-merged_res-29:\\font_light.ttf.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.btvnbuoi4.app-main-31:\\font\\light.ttf"
+    }
+]

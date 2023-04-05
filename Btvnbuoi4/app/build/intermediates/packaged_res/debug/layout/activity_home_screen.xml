@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@drawable/backbround"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".HomeScreen">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:gravity="center"
+        android:layout_margin="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_gravity="start"
+            android:layout_marginBottom="10dp"
+            android:textColor="#1812BD"
+            android:textSize="20sp"
+            android:fontFamily="@font/outfitregular"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Email"/>
+        <EditText
+            android:id="@+id/setemail"
+            android:layout_marginBottom="20dp"
+            android:paddingHorizontal="20dp"
+            android:background="@drawable/borderedittext"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:inputType="textEmailAddress"/>
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_gravity="start"
+            android:layout_marginBottom="10dp"
+            android:textColor="#1812BD"
+            android:textSize="20sp"
+            android:fontFamily="@font/outfitregular"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Pass" />
+        <LinearLayout
+            android:background="@drawable/borderedittext"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <EditText
+                android:id="@+id/setpass"
+                android:layout_weight="1"
+                android:paddingHorizontal="20dp"
+                android:backgroundTint="#5bb8e0"
+                android:layout_width="wrap_content"
+                android:layout_height="50dp"
+                android:inputType="textPassword"/>
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_gravity="center"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+                <ImageView
+                    android:id="@+id/eye"
+                    android:visibility="visible"
+                    android:layout_marginRight="10dp"
+                    android:background="@drawable/eyeicon"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"/>
+
+                <ImageView
+                    android:id="@+id/uneye"
+                    android:visibility="invisible"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="10dp"
+                    android:background="@drawable/uneyeicon"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent" />
+            </androidx.constraintlayout.widget.ConstraintLayout>
+        </LinearLayout>
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/continuee"
+            android:background="@drawable/borderbutton"
+            android:layout_marginTop="30dp"
+            android:paddingHorizontal="10dp"
+            android:text="tiếp tục"
+            android:textSize="20sp"
+            android:fontFamily="@font/outfitregular"
+            android:textColor="@color/white"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+    </LinearLayout>
+
+</LinearLayout>
