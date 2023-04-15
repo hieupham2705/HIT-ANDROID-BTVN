@@ -1,0 +1,270 @@
+[
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-merged_res-50:\\drawable_ic_android_black_24dp.xml.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-main-52:\\drawable\\ic_android_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-merged_res-50:\\layout_item_recy_watch.xml.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-main-52:\\layout\\item_recy_watch.xml"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-merged_res-50:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-main-52:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-merged_res-50:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-main-52:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-merged_res-50:\\drawable_baseline_settings_24.xml.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-main-52:\\drawable\\baseline_settings_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-merged_res-50:\\drawable_boder_bt_menu.xml.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-main-52:\\drawable\\boder_bt_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-merged_res-50:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-main-52:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-merged_res-50:\\xml_splash_screen_scene.xml.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-main-52:\\xml\\splash_screen_scene.xml"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-merged_res-50:\\drawable_baseline_person_24.xml.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-main-52:\\drawable\\baseline_person_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-merged_res-50:\\layout_fragment_watch.xml.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-main-52:\\layout\\fragment_watch.xml"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-merged_res-50:\\layout_fragment_menu.xml.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-main-52:\\layout\\fragment_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-merged_res-50:\\drawable_share.xml.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-main-52:\\drawable\\share.xml"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-merged_res-50:\\layout_fragment_home2.xml.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-main-52:\\layout\\fragment_home2.xml"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-merged_res-50:\\layout_splash_screen.xml.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-main-52:\\layout\\splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-merged_res-50:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-main-52:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-merged_res-50:\\layout_activity_splash_screen.xml.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-main-52:\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-merged_res-50:\\drawable_like.xml.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-main-52:\\drawable\\like.xml"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-merged_res-50:\\layout_item_recy.xml.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-main-52:\\layout\\item_recy.xml"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-merged_res-50:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-main-52:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-merged_res-50:\\drawable_ic_dashboard_black_24dp.xml.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-main-52:\\drawable\\ic_dashboard_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-merged_res-50:\\font_robotothinitalic.ttf.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-main-52:\\font\\robotothinitalic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-merged_res-50:\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-main-52:\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-merged_res-50:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-main-52:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-merged_res-50:\\drawable_baseline_close_24.xml.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-main-52:\\drawable\\baseline_close_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-merged_res-50:\\font_robotoitalic.ttf.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-main-52:\\font\\robotoitalic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-merged_res-50:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-main-52:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-merged_res-50:\\font_robotolight.ttf.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-main-52:\\font\\robotolight.ttf"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-merged_res-50:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-main-52:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-merged_res-50:\\font_robotoregular.ttf.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-main-52:\\font\\robotoregular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-merged_res-50:\\font_bobotoblack.ttf.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-main-52:\\font\\bobotoblack.ttf"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-merged_res-50:\\font_robotothin.ttf.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-main-52:\\font\\robotothin.ttf"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-merged_res-50:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-main-52:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-merged_res-50:\\mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-main-52:\\mipmap-anydpi-v33\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-merged_res-50:\\drawable_groups.png.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-main-52:\\drawable\\groups.png"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-merged_res-50:\\drawable_menu.png.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-main-52:\\drawable\\menu.png"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-merged_res-50:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-main-52:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-merged_res-50:\\drawable_feed.png.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-main-52:\\drawable\\feed.png"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-merged_res-50:\\font_robotobold.ttf.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-main-52:\\font\\robotobold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-merged_res-50:\\font_robotomediumitalic.ttf.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-main-52:\\font\\robotomediumitalic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-merged_res-50:\\raw_video.MP4.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-main-52:\\raw\\video.MP4"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-merged_res-50:\\drawable_baseline_search_24.xml.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-main-52:\\drawable\\baseline_search_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-merged_res-50:\\layout_fragment_heart.xml.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-main-52:\\layout\\fragment_heart.xml"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-merged_res-50:\\font_robotoblackitalic.ttf.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-main-52:\\font\\robotoblackitalic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-merged_res-50:\\drawable_border_liner_menu.xml.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-main-52:\\drawable\\border_liner_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-merged_res-50:\\drawable_ic_notifications_black_24dp.xml.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-main-52:\\drawable\\ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-merged_res-50:\\drawable_fbb.png.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-main-52:\\drawable\\fbb.png"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-merged_res-50:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-main-52:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-merged_res-50:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-main-52:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-merged_res-50:\\font_robotomedium.ttf.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-main-52:\\font\\robotomedium.ttf"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-merged_res-50:\\drawable_img.png.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-main-52:\\drawable\\img.png"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-merged_res-50:\\layout_fragment_thong_bao.xml.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-main-52:\\layout\\fragment_thong_bao.xml"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-merged_res-50:\\drawable_smart_display.png.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-main-52:\\drawable\\smart_display.png"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-merged_res-50:\\drawable_storefront.png.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-main-52:\\drawable\\storefront.png"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-merged_res-50:\\layout_item_recy_home.xml.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-main-52:\\layout\\item_recy_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-merged_res-50:\\color_setmenu.xml.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-main-52:\\color\\setmenu.xml"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-merged_res-50:\\drawable_comment.xml.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-main-52:\\drawable\\comment.xml"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-merged_res-50:\\drawable_ic_home_black_24dp.xml.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-main-52:\\drawable\\ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-merged_res-50:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-main-52:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-merged_res-50:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-main-52:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-merged_res-50:\\drawable_baseline_groups_24.xml.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-main-52:\\drawable\\baseline_groups_24.xml"
+    },
+    {
+        "merged": "com.example.facebook.app-merged_res-50:/xml_splash_screen_scene.xml.flat",
+        "source": "com.example.facebook.app-main-52:/xml/splash_screen_scene.xml"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-merged_res-50:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-main-52:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-merged_res-50:\\drawable_mess.jpg.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-main-52:\\drawable\\mess.jpg"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-merged_res-50:\\drawable_ecg_heart.png.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-main-52:\\drawable\\ecg_heart.png"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-merged_res-50:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-main-52:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-merged_res-50:\\font_robotobolditalic.ttf.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-main-52:\\font\\robotobolditalic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-merged_res-50:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-main-52:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    }
+]

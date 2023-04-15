@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-mergeDebugResources-49:\\layout\\fragment_thong_bao.xml",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-main-52:\\layout\\fragment_thong_bao.xml"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-mergeDebugResources-49:\\layout\\fragment_menu.xml",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-main-52:\\layout\\fragment_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-mergeDebugResources-49:\\layout\\item_recy.xml",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-main-52:\\layout\\item_recy.xml"
+    },
+    {
+        "merged": "com.example.facebook.app-mergeDebugResources-49:/layout/activity_splash_screen.xml",
+        "source": "com.example.facebook.app-main-52:/layout/activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-mergeDebugResources-49:\\layout\\item_recy_watch.xml",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-main-52:\\layout\\item_recy_watch.xml"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-mergeDebugResources-49:\\layout\\fragment_watch.xml",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-main-52:\\layout\\fragment_watch.xml"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-mergeDebugResources-49:\\layout\\item_recy_home.xml",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-main-52:\\layout\\item_recy_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-mergeDebugResources-49:\\layout\\activity_splash_screen.xml",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-main-52:\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-mergeDebugResources-49:\\layout\\fragment_home2.xml",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-main-52:\\layout\\fragment_home2.xml"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-mergeDebugResources-49:\\layout\\splash_screen.xml",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-main-52:\\layout\\splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-mergeDebugResources-49:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-main-52:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-mergeDebugResources-49:\\layout\\fragment_heart.xml",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.facebook.app-main-52:\\layout\\fragment_heart.xml"
+    }
+]

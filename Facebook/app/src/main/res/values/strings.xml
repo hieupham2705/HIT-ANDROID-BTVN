@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Facebook</string>
+    <string name="title_home">Trang chủ</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Thông báo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Tự kiếm người yêu điiiii</string>
+    <string name="Xuan_hieu">Xuân hiếu và 7 người khác đã bày tỏ cảm xúc về một video</string>
+    <string name="ban_troi">"Nếu các bạn thực sự sống có ích thì luôn cảm giác thiếu thời gian. Thiếu k.inh kh.ủng! Và tôi nghĩ chúng ta chỉ có cách tận dụng thời gian bằng cách: Với cùng một khoảng thời gian đó, chúng ta làm nhiều việc hơn so với những người bình thường, và giảm bớt thời gian v.ô bổ đi, bao gồm cả thời gian ngủ. Ngủ là thời gian vô ích! Tôi không hiểu sao Thượng đế sinh ra con người phải ngủ nhiều thế! Vì tiếc thời gian ngủ k.inh kh.ủng, cho nên Tôi hay "ngủ tranh thủ".</string>
+</resources>
