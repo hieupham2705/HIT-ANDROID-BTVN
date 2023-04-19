@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.recyclehit.app-mergeDebugResources-30:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.recyclehit.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.example.recyclehit.app-mergeDebugResources-30:/layout/item_recycler.xml",
+        "source": "com.example.recyclehit.app-main-33:/layout/item_recycler.xml"
+    },
+    {
+        "merged": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.recyclehit.app-mergeDebugResources-30:\\layout\\item_recycler.xml",
+        "source": "C:\\Users\\fckho\\.gradle\\daemon\\7.5\\com.example.recyclehit.app-main-33:\\layout\\item_recycler.xml"
+    }
+]
