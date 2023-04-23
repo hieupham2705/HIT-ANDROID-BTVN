@@ -1,5 +1,6 @@
 package com.example.facebook
 
+import android.content.Context
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import androidx.fragment.app.Fragment
@@ -11,12 +12,11 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(binding.root)
-        val adapter = MyAdapterWatch(this)
         replaceFragments(home())
         binding.bottomnavigation.setOnItemSelectedListener {
             when(it.itemId){
                 R.id.home -> replaceFragments(home())
-                R.id.watch -> replaceFragments(Watch(adapter))
+                R.id.watch -> replaceFragments(Watch())
                 R.id.heart -> replaceFragments(Heart())
                 R.id.notification -> replaceFragments(Thong_bao())
                 R.id.menu -> replaceFragments(Menu())

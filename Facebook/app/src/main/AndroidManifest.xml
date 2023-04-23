@@ -14,6 +14,7 @@
         android:theme="@style/Theme.Facebook"
         tools:targetApi="31">
         <activity
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen"
             android:name=".MainActivity"
             android:exported="false" />
         <activity

@@ -1,141 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    android:background="@color/white"
     android:orientation="vertical">
-    <LinearLayout
-        android:background="#C0C0C0"
-        android:layout_width="match_parent"
-        android:layout_height="5dp"/>
-
-    <LinearLayout
-        android:paddingTop="10dp"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:orientation="vertical">
-
-        <LinearLayout
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_marginHorizontal="10dp"
-            android:orientation="vertical">
-
-            <LinearLayout
-                android:orientation="horizontal"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content">
-                <androidx.cardview.widget.CardView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    app:cardCornerRadius="100dp">
-                    <ImageView
-                        android:layout_width="40dp"
-                        android:layout_height="40dp"
-                        android:background="@drawable/img" />
-                </androidx.cardview.widget.CardView>
-                <Space
-                    android:layout_width="10dp"
-                    android:layout_height="wrap_content"/>
-                <TextView
-                    android:layout_weight="1"
-                    android:id="@+id/texthome"
-                    android:textColor="@color/black"
-                    android:textSize="16sp"
-                    android:text="Phạm Xuân Hiếu"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"/>
-                <ImageView
-                    android:layout_gravity="end"
-                    android:background="@drawable/baseline_close_24"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"/>
-
-            </LinearLayout>
-
-            <Space
-                android:layout_width="wrap_content"
-                android:layout_height="5dp" />
-
-            <TextView
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:text="@string/ban_troi"
-                android:textColor="@color/black" />
-        </LinearLayout>
-        <Space
-            android:layout_width="wrap_content"
-            android:layout_height="10dp"/>
-
-        <ImageView
-            android:layout_width="match_parent"
-            android:layout_height="300dp"
-            android:background="@drawable/img" />
-
-    </LinearLayout>
-
+    <androidx.recyclerview.widget.RecyclerView
+        tools:listitem="@layout/item_recy_stories"
+        tools:itemCount="2"
+        android:id="@+id/recycler_layout_stories"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
     <Space
+        android:layout_width="wrap_content"
+        android:layout_height="10dp"/>
+
+    <androidx.recyclerview.widget.RecyclerView
+        tools:listitem="@layout/item_recy_news"
+        tools:itemCount="20"
+        android:id="@+id/recycler_layout_news"
         android:layout_width="match_parent"
-        android:layout_height="7dp" />
-    <LinearLayout
-        android:orientation="horizontal"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content">
-        <LinearLayout
-            android:layout_weight="1"
-            android:gravity="center"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content">
-            <ImageView
-                android:layout_gravity="start"
-                android:background="@drawable/like"
-                android:layout_width="24dp"
-                android:layout_height="24dp"/>
-            <Space
-                android:layout_width="5dp"
-                android:layout_height="wrap_content"/>
-            <TextView
-                android:text="Like"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"/>
-        </LinearLayout>
-        <LinearLayout
-            android:layout_weight="1"
-            android:gravity="center"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content">
-            <ImageView
-                android:layout_gravity="start"
-                android:background="@drawable/comment"
-                android:layout_width="24dp"
-                android:layout_height="24dp"/>
-            <Space
-                android:layout_width="5dp"
-                android:layout_height="wrap_content"/>
-            <TextView
-                android:text="Comment"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"/>
-        </LinearLayout>
-        <LinearLayout
-            android:layout_weight="1"
-            android:gravity="center"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content">
-            <ImageView
-                android:layout_gravity="start"
-                android:background="@drawable/share"
-                android:layout_width="24dp"
-                android:layout_height="24dp"/>
-            <Space
-                android:layout_width="5dp"
-                android:layout_height="wrap_content"/>
-            <TextView
-                android:text="Share"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"/>
-        </LinearLayout>
-    </LinearLayout>
+        android:layout_height="wrap_content"/>
+
 
 </LinearLayout>

@@ -16,6 +16,7 @@ drawable baseline_person_24
 drawable baseline_search_24
 drawable baseline_settings_24
 drawable boder_bt_menu
+drawable boder_img
 drawable border_liner_menu
 drawable comment
 drawable ecg_heart
@@ -48,8 +49,10 @@ font robotothin
 font robotothinitalic
 id appCompatButton
 id bottomnavigation
+id cardview
 id container
 id end
+id erase
 id framelayout
 id heart
 id home
@@ -57,13 +60,17 @@ id image
 id imageView
 id menu
 id notification
+id progressBar
 id recycler_layout
 id recycler_layout_home
+id recycler_layout_news
+id recycler_layout_stories
 id recycler_layout_watch
 id start
 id text
 id texthome
 id video
+id videostories
 id watch
 layout activity_main
 layout activity_splash_screen
@@ -74,6 +81,8 @@ layout fragment_thong_bao
 layout fragment_watch
 layout item_recy
 layout item_recy_home
+layout item_recy_news
+layout item_recy_stories
 layout item_recy_watch
 menu bottom_nav_menu
 mipmap ic_launcher

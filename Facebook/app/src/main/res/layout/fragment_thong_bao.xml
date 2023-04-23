@@ -55,9 +55,13 @@
             android:layout_height="10dp" />
 
         <androidx.recyclerview.widget.RecyclerView
+            tools:listitem="@layout/item_recy"
+            tools:itemCount="200"
             android:id="@+id/recycler_layout"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"></androidx.recyclerview.widget.RecyclerView>
+            android:layout_height="wrap_content">
+
+        </androidx.recyclerview.widget.RecyclerView>
     </LinearLayout>
 
 </FrameLayout>

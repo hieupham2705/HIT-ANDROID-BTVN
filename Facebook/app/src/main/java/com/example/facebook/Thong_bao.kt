@@ -14,9 +14,6 @@ class Thong_bao : Fragment() {
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
     ): View? {
-        binding.recyclerLayout.layoutManager = LinearLayoutManager(context)
-        binding.recyclerLayout.setHasFixedSize(true)
-        binding.recyclerLayout.adapter = MyAdapter()
         return binding.root
     }
 

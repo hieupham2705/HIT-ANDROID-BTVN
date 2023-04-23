@@ -13,6 +13,7 @@ class Splash_screen : AppCompatActivity() {
         Handler().postDelayed(
             {
                 startActivity(Intent(this,MainActivity::class.java))
+                startActivity(Intent(this,ItemStories::class.java))
                 finish()
             },
         1500

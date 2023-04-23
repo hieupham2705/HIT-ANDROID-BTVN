@@ -9,23 +9,20 @@ import android.widget.VideoView
 import androidx.recyclerview.widget.RecyclerView
 import com.example.facebook.databinding.FragmentWatchBinding
 
-class MyAdapterWatch(private val context: Context) : RecyclerView.Adapter<MyAdapterWatch.ViewHolder>() {
+class MyAdapterWatch() : RecyclerView.Adapter<MyAdapterWatch.ViewHolder>() {
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ViewHolder {
         return ViewHolder(LayoutInflater.from(parent.context).inflate(R.layout.item_recy_watch,parent,false))
     }
 
     override fun getItemCount(): Int {
-        return 20
+        return 200
     }
 
     override fun onBindViewHolder(holder: ViewHolder, position: Int) {
         val s : String = "android.resource://com.example.facebook/" + R.raw.video
         holder.videoView.setVideoPath(s)
         holder.videoView.start()
-        val mediaController = MediaController(context)
-//        holder.videoView.setMediaController(mediaController)
-//        mediaController.setAnchorView(holder.videoView)
     }
 
     class ViewHolder (item : View) : RecyclerView.ViewHolder(item){

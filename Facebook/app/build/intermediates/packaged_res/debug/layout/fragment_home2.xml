@@ -44,11 +44,13 @@
                     android:layout_height="25dp"/>
             </LinearLayout>
         </androidx.constraintlayout.widget.ConstraintLayout>
-        <Space
+        <LinearLayout
+            android:background="#C0C0C0"
             android:layout_width="match_parent"
-            android:layout_height="7dp"/>
+            android:layout_height="5dp"/>
         <androidx.recyclerview.widget.RecyclerView
             android:id="@+id/recycler_layout_home"
+            tools:listitem="@layout/item_recy_home"
             android:layout_width="match_parent"
             android:layout_height="wrap_content">
 

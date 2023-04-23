@@ -5,6 +5,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.LinearLayout;
+import android.widget.ProgressBar;
 import android.widget.VideoView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
@@ -20,10 +21,15 @@ public final class ItemRecyWatchBinding implements ViewBinding {
   private final LinearLayout rootView;
 
   @NonNull
+  public final ProgressBar progressBar;
+
+  @NonNull
   public final VideoView video;
 
-  private ItemRecyWatchBinding(@NonNull LinearLayout rootView, @NonNull VideoView video) {
+  private ItemRecyWatchBinding(@NonNull LinearLayout rootView, @NonNull ProgressBar progressBar,
+      @NonNull VideoView video) {
     this.rootView = rootView;
+    this.progressBar = progressBar;
     this.video = video;
   }
 
@@ -54,13 +60,19 @@ public final class ItemRecyWatchBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
+      id = R.id.progressBar;
+      ProgressBar progressBar = ViewBindings.findChildViewById(rootView, id);
+      if (progressBar == null) {
+        break missingId;
+      }
+
       id = R.id.video;
       VideoView video = ViewBindings.findChildViewById(rootView, id);
       if (video == null) {
         break missingId;
       }
 
-      return new ItemRecyWatchBinding((LinearLayout) rootView, video);
+      return new ItemRecyWatchBinding((LinearLayout) rootView, progressBar, video);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

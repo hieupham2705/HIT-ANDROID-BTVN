@@ -2757,6 +2757,7 @@ drawable baseline_person_24
 drawable baseline_search_24
 drawable baseline_settings_24
 drawable boder_bt_menu
+drawable boder_img
 drawable border_liner_menu
 drawable btn_checkbox_checked_mtrl
 drawable btn_checkbox_checked_to_unchecked_mtrl_animation
@@ -2992,6 +2993,7 @@ id buttonPanel
 id cache_measures
 id callMeasure
 id cancel_button
+id cardview
 id carryVelocity
 id center
 id centerCrop
@@ -3067,6 +3069,7 @@ id end
 id endToStart
 id enterAlways
 id enterAlwaysCollapsed
+id erase
 id exitUntilCollapsed
 id expand_activities_button
 id expanded_menu
@@ -3235,6 +3238,7 @@ id pin
 id position
 id postLayout
 id pressed
+id progressBar
 id progress_circular
 id progress_horizontal
 id radio
@@ -3242,6 +3246,8 @@ id ratio
 id rectangles
 id recycler_layout
 id recycler_layout_home
+id recycler_layout_news
+id recycler_layout_stories
 id recycler_layout_watch
 id reverseSawtooth
 id right
@@ -3382,6 +3388,7 @@ id up
 id useLogo
 id vertical_only
 id video
+id videostories
 id view_offset_helper
 id view_transition
 id view_tree_lifecycle_owner
@@ -3532,6 +3539,8 @@ layout fragment_thong_bao
 layout fragment_watch
 layout item_recy
 layout item_recy_home
+layout item_recy_news
+layout item_recy_stories
 layout item_recy_watch
 layout m3_alert_dialog
 layout m3_alert_dialog_actions
